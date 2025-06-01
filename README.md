@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Rahul, and I'm a CSE student at DTU, passionate about software development.</h2>
+<h1 align="left">Hi👋 My name is Rahul, and I'm a CSE student at DTU, passionate about software development.</h2>
 
 ###
 
