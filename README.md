@@ -1,47 +1,46 @@
-<h1 align="left">Hi👋 My name is Rahul, and I'm a CSE student at DTU, passionate about software development.</h2>
+## Hi there! 👋
 
-###
+I'm Rahul Verma, a passionate Computer Science Engineering student with a keen interest in software development and technology.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VrmaRahul007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VrmaRahul007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+I am currently pursuing my degree in Computer Science Engineering. I am enthusiastic about learning new technologies and contributing to exciting projects. Based in India, I am eager to collaborate with like-minded individuals and grow my skill set.
 
+## Skills & Technologies
 
-###
+html,css,js,flutter,docker,react
 
-<div align="left">
- <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-</div>
+## Top Projects
 
-###
+- [**Pepsi-Dashboard**](https://github.com/VrmaRahul007/Pepsi-Dashboard)  
+  A dashboard application for visualizing Pepsi products.  
+  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
 
+- [**FinancialAssistantChat**](https://github.com/VrmaRahul007/FinancialAssistantChat)  
+  An interactive chat application acting as a financial assistant.  
+  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
+
+- [**AI-Model-Price-Estimation**](https://github.com/VrmaRahul007/AI-Model-Price-Estimation)  
+  A project that estimates prices based on AI models.  
+  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
+
+- [**GDSC-Project**](https://github.com/VrmaRahul007/GDSC-Project)  
+  A project developed under the Google Developer Student Clubs initiative.  
+  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
+
+- [**color-changer**](https://github.com/VrmaRahul007/color-changer)  
+  A simple web application to change colors dynamically.  
+  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues
+
+## GitHub Stats
+
+🔹 **Public Repositories:** 8  
+🔹 **Followers:** 1  
+🔹 **Following:** 1  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VrmaRahul007&show_icons=true&theme=radical)
+
+## Connect with Me
 <div align="left">
   <a href="https://www.instagram.com/vrma_rahul007/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -57,8 +56,3 @@
   
 </div>
 
-###
-
-<br clear="both">
-
-###
