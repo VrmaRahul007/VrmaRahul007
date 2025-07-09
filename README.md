@@ -1,44 +1,25 @@
-## Hi there! 👋
+## Hey there!,👋
 
-I'm Rahul Verma, a passionate Computer Science Engineering student with a keen interest in software development and technology.
+I am Rahul Verma, a passionate Computer Science Engineering student with a keen interest in software development and technology.
 
 ## About Me
 
-I am currently pursuing my degree in Computer Science Engineering. I am enthusiastic about learning new technologies and contributing to exciting projects. Based in India, I am eager to collaborate with like-minded individuals and grow my skill set.
+🎓 Currently in my third year at Delhi Technological University (DTU), majoring in Computer Science Engineering.
+<br>
+💻 Enthusiastic about MERN Stack Development — I love turning ideas into impactful web applications.
+<br>
+🤝 Always eager to connect, collaborate, and build alongside curious minds in tech.
+<br>
+🚀 On a constant journey of learning — diving into new tools, experimenting with side projects, and coding my way through challenges (fueled by coffee, of course).
+<br>
 
-## Skills & Technologies
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-html,css,js,flutter,docker,react
+## 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=VrmaRahul007&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VrmaRahul007&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 
-## Top Projects
-
-- [**Pepsi-Dashboard**](https://github.com/VrmaRahul007/Pepsi-Dashboard)  
-  A dashboard application for visualizing Pepsi products.  
-  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
-
-- [**FinancialAssistantChat**](https://github.com/VrmaRahul007/FinancialAssistantChat)  
-  An interactive chat application acting as a financial assistant.  
-  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
-
-- [**AI-Model-Price-Estimation**](https://github.com/VrmaRahul007/AI-Model-Price-Estimation)  
-  A project that estimates prices based on AI models.  
-  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
-
-- [**GDSC-Project**](https://github.com/VrmaRahul007/GDSC-Project)  
-  A project developed under the Google Developer Student Clubs initiative.  
-  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues  
-
-- [**color-changer**](https://github.com/VrmaRahul007/color-changer)  
-  A simple web application to change colors dynamically.  
-  ⭐️ 0 Stars | 🔄 0 Forks | 🐛 0 Issues
-
-## GitHub Stats
-
-🔹 **Public Repositories:** 8  
-🔹 **Followers:** 1  
-🔹 **Following:** 1  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VrmaRahul007&show_icons=true&theme=radical)
 
 ## Connect with Me
 <div align="left">
