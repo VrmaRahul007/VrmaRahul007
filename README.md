@@ -4,7 +4,7 @@ I am Rahul Verma, a passionate Computer Science Engineering student with a keen 
 
 ## About Me
 
-Currently in my third year at Delhi Technological University (DTU), majoring in Computer Science Engineering.
+Currently in my Final year at Delhi Technological University (DTU), majoring in Computer Science Engineering.
 <br>
 Enthusiastic about MERN Stack Development — I love turning ideas into impactful web applications.
 <br>
