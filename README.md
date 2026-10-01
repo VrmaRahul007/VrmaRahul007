@@ -33,7 +33,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=VrmaRahul007&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/VrmaRahul007?label=FOLLOWERS&style=for-the-badge&color=5B21B6"/>
 <img src="https://img.shields.io/github/stars/VrmaRahul007?label=STARS&style=for-the-badge&color=6D28D9"/>
 
