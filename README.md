@@ -187,23 +187,6 @@ A workforce management platform designed for construction operations, covering a
 </details>
 
 ---
-
-## Experience
-
-### T&D Intern — Software Development | Protiviti
-
-**June 2026 – July 2026 · Gurugram, India**
-
-Worked on enterprise software development involving backend architecture, workflow automation, data processing, relational databases, API security, and performance optimization.
-
-* Built a configurable **multi-tier approval state machine** using Node.js and Prisma, orchestrating sequential routing across 4+ approval levels.
-* Reduced **Purchase Order generation cycle time by 35%** for 500+ monthly requests.
-* Developed an asynchronous **bulk Excel ingestion pipeline** using Multer and xlsx for in-memory multipart parsing.
-* Eliminated manual entry errors and reduced **NFA creation time by 40%**.
-* Architected relational **PostgreSQL schemas** for enterprise Master Data.
-* Secured **20+ REST APIs** using JWT-based Role-Based Access Control.
-* Optimized dashboard aggregations using **Redis caching**, achieving **sub-100ms response times** for complex queries.
-
 **Skills**
 
 `Node.js` `Express.js` `React` `TypeScript` `PostgreSQL` `Prisma` `Redis` `JWT` `REST APIs`
