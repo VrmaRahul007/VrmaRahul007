@@ -18,9 +18,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/VrmaRahul007">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/rahul-verma-63ab21279/">
 <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
