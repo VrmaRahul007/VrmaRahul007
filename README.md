@@ -103,7 +103,7 @@ I approach projects with a product mindset: understand the problem, design the s
 ## Featured Projects
 
 <details>
-<summary><b>🔐 SecureShare — Secure File Sharing System</b></summary>
+<summary><b> SecureShare — Secure File Sharing System</b></summary>
 
 <br/>
 
@@ -130,7 +130,7 @@ A security-focused file sharing platform designed around encrypted storage, cont
 </details>
 
 <details>
-<summary><b>🤖 NexusAgent — Multi-Agent AI System</b></summary>
+<summary><b> NexusAgent — Multi-Agent AI System</b></summary>
 
 <br/>
 
@@ -157,7 +157,7 @@ A multi-agent AI architecture that dynamically routes user requests to specializ
 </details>
 
 <details>
-<summary><b>🏗️ SiteSathi — Workforce Management Platform</b></summary>
+<summary><b> SiteSathi — Workforce Management Platform</b></summary>
 
 <br/>
 
@@ -196,11 +196,11 @@ A workforce management platform designed for construction operations, covering a
 
 |           Recognition          | Details                                                                   |
 | :----------------------------: | ------------------------------------------------------------------------- |
-| 🧠 **Competitive Programming** | Solved **1000+ DSA problems** across LeetCode, GeeksforGeeks and CodeChef |
-|         ⚡ **LeetCode**         | Achieved **1700+ rating**                                                 |
+|  **Competitive Programming** | Solved **1000+ DSA problems** across LeetCode, GeeksforGeeks and CodeChef |
+|          **LeetCode**         | Achieved **1700+ rating**                                                 |
 |         🏆 **CodeChef**        | **3-Star**, 1600+ rating                                                  |
 |  🥇 **CodeChef Starters 234**  | Secured **Global Rank 124**                                               |
-|    🚀 **Flipkart GRiD 7.0**    | Selected as **Semi-Finalist** among **1.5 lakh+ participants**            |
+|     **Flipkart GRiD 7.0**    | Selected as **Semi-Finalist** among **1.5 lakh+ participants**            |
 |         🎓 **JEE Main**        | Ranked among the **top 1%** among **12+ lakh candidates**                 |
 |       📚 **JEE Advanced**      | Qualified JEE Advanced                                                    |
 |           🏅 **NTSE**          | Cleared **NTSE Stage 1 — 2019**                                           |
